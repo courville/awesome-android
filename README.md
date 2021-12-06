@@ -183,6 +183,7 @@ A curated list of awesome open source Android applications, tutorials and resour
 
 - [mpv](https://mpv.io/) - Minimal media player.
 - [VLC](https://www.videolan.org/) - Minimal media player.
+- [NOVA](https://github.com/nova-video-player/aos-AVP) - Video player for local/network content with subtitle/metadata download support.
 
 ## Music
 
